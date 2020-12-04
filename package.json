@@ -19,7 +19,7 @@
   "dependencies": {
     "clean-css": "^4.1.9",
     "glob": "^7.1.1",
-    "highlight.js": "^9.7.0",
+    "highlight.js": "^10.4.1",
     "hogan.js": "^3.0.2",
     "html-minifier": "^3.5.8",
     "js-beautify": "1.6.14",
